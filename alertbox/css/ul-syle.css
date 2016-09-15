@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 27, 2016, 6:43:08 PM
+    Author     : MANAGER
+*/
+
+.am-border{
+    margin: auto;
+    background: lightgray;
+    padding: 25px 25px;
+    border-left: 10px solid red;
+    font-family: cursive;
+    font-weight: 25px;
+    color:#ffffff;
+}
+.am-border:hover{
+    background: blanchedalmond;
+    color: black;
+    border-left: 10px solid black;
+}
+.am-border:visited{
+    background: red;
+}
+
+.am-cont-border{
+    height: 150px;
+    width:1000px;
+    margin : auto;
+    
+}
+
+
+
+

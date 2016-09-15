@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 15, 2016, 12:49:52 PM
+    Author     : Gideon
+*/
+
+.border-l{
+  
+  background-image: url(../img/gideon.jpg);
+  height: 300px;
+  width:280px;
+  background-repeat: no-repeat;
+
+  border-radius: 20px;
+  border:5px solid brown;
+  display: inline-block;
+}
+.border-2{
+  background-image: url(../img/gideon.jpg);
+  height: 300px;
+  width:280px;
+  background-repeat: no-repeat;
+  border-radius: 50px 0px 50px 0px;
+  border:5px solid brown;
+  display: inline-block;
+}
+.border-3{
+  background-image: url(../img/gideon1.png);
+  height: 300px;
+  width:280px;
+  background-repeat: no-repeat;
+  background-color: buttonshadow;
+  border-radius: 50%;
+  border:5px solid brown;
+  display: inline-block;
+}
+.border-4{
+  background-image: url(../img/gideon.jpg);
+  height: 300px;
+  width:280px;
+  background-repeat: no-repeat;
+  border-radius: 80px 80px;
+  border:5px solid brown;
+  display: inline-block;
+}
+
